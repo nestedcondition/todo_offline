@@ -1,9 +1,9 @@
 # offline_todo
 
-A simple to do app, written in vanilla JavaScript that is offline first.  
+A simple to do app, written in vanilla JavaScrip. Uses appcache and localStorage to work offline.  
 
 
-# How to run this application?
+## How to run this application?
 
 1. Download all the files in the css, js and images folders along with index.html and manifest.appcache.  
 
